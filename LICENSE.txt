@@ -1,0 +1,19 @@
+PERSONAL USE LICENSE AGREEMENT FOR QBO CONNECTOR
+
+This software ("QBO Connector") is provided for personal or internal business use only.
+
+1. LIMITED LICENSE
+Permission is granted to use, modify, and deploy this software solely for personal or internal use. This software is not licensed for redistribution, resale, or commercial offering to third parties.
+
+2. NO REDISTRIBUTION
+You may not publicly distribute, sublicense, or make this software available to others in any form without express permission from the original author.
+
+3. LIMITATION OF LIABILITY
+The software is provided "AS IS", without warranty of any kind, express or implied. The author(s) shall not be held liable for any damages, losses, or liabilities arising from its use.
+
+4. TRADEMARKS & API USE
+"QuickBooks" and "Intuit" are registered trademarks of Intuit Inc. This project is not affiliated with or endorsed by Intuit. Use of this connector is subject to compliance with Intuit's [Developer Terms of Service](https://developer.intuit.com/legal).
+
+5. APPROVAL & API KEYS
+Use of this connector with Intuit’s production API requires approval by Intuit. This license is provided publicly to meet Intuit’s requirements for production app credentials.
+
